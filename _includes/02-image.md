@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of mountains and country side](http://cache.desktopnexus.com/thumbseg/2367/2367143-bigthumbnail.jpg)
